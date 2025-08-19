@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |  | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase) |
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fento2&show_icons=true&theme=tokyonight)
 
-## 📊 Most Used Languages
+##  Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fento2&layout=compact&theme=tokyonight)
