@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fento2&theme=tokyonight)
 
 ## Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=fento2&theme=react-dark&hide_border=true)
+[![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=fento2&theme=react-dark&hide_border=true)](https://visitor-badge.glitch.me/badge?page_id=fento2.fento2&right_color=blue
+)
 
 ## Visitors
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=fento2.fento2)
