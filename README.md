@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fento2&layout=compact&theme=tokyonight)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fento2&layout=compact&theme=radical)
+![Fen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fento2&show_icons=true&theme=radical)
+
 
