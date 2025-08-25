@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fento2&layout=compact&theme=tokyonight)
 
+
 ## GitHub Stats
 ![Fen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fento2&show_icons=true&theme=radical)
-![Fen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=fento2&theme=radical)
+
+## GitHub Streak
+![Fen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fento2&theme=radical)
