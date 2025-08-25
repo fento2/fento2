@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 ## GitHub Stats
 ![Fen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fento2&show_icons=true&theme=radical)
 
-## GitHub Streak
-![Fen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fento2&theme=radical)
