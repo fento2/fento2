@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 ![Fen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fento2&show_icons=true&theme=radical)
-
-![Strike](https://img.shields.io/badge/Warning-Strike-red)
-
+![Fen's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=fento2&theme=radical)
