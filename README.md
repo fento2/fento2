@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="472" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
+<img align="right" height="350" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
 
 ###
 
@@ -38,9 +38,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="79" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="79" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="79" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="79" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="79" alt="css logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="79" alt="react logo"  />
   <img width="15" />
