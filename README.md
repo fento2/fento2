@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fento2/fento2/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/fento2/fento2/output/snake.svg" alt="Snake animation" /> -->
 
 ###
