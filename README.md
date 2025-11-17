@@ -6,7 +6,9 @@
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
+<div align="center">
+  <img src="https://count.getloli.com/@:fento2?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
@@ -33,7 +35,6 @@
 
 ###
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="79" alt="typescript logo"  />
   <img width="15" />
@@ -59,5 +60,9 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgres" height="79" alt="postgresql logo"  />
 </div>
+
+###
+
+<img align="right" height="350" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
 
 ###
