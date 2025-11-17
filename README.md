@@ -12,6 +12,10 @@
 
 ###
 
+<img align="right" height="350" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fento2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
@@ -60,9 +64,5 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgres" height="79" alt="postgresql logo"  />
 </div>
-
-###
-
-<img align="right" height="350" src="https://i.pinimg.com/736x/bb/79/55/bb7955a6457486800f09a83f0cfddaf6.jpg"  />
 
 ###
