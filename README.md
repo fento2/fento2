@@ -42,7 +42,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="79" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="79" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="79" alt="go logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="79" alt="javascript logo"  />
   <img width="15" />
